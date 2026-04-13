@@ -1,0 +1,7 @@
+2026-04-12 08:27:40.659154 — Data refreshed through 04/12/2026
+2026-04-12 08:29:27.392838 — Data refreshed through 04/12/2026
+2026-04-12 08:31:00.743305 — Data refreshed through 04/12/2026
+2026-04-12 08:32:48.131372 — Data refreshed through 04/12/2026
+2026-04-12 08:34:15.021487 — Data refreshed through 04/12/2026
+2026-04-13 17:06:12.500994 — Facilities: 1070, DMR records: 1283310
+2026-04-13 17:29:03.902150 — Facilities: 1070, DMR records: 1283310, Limit records: 211836
